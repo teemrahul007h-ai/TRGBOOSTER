@@ -6,13 +6,13 @@
   "imei": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
   "ip": "192.168.1.100",
   "os": "Android 10 (API 29)",
-  "status": "online",
+  "status": "ACTIVE_VIP",
   "last_seen": 1793010693830,
   "battery": 53,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
   "sw": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
-  "expiry_time": 1809167322981,
+  "expiry_time": 4962767322981,
   "remaining_days": 187,
   "is_expired": false,
   "badge": "187 DAYS",
@@ -636,5 +636,6 @@
       "pkg": "com.trg.booster:core",
       "importance": "Background"
     }
-  ]
+  ],
+  "plan": "Lifetime VIP"
 }
