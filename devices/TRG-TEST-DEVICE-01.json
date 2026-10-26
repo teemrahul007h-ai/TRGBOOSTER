@@ -1,0 +1,12 @@
+{
+    "id":  "TRG-TEST-DEVICE-01",
+    "sw":  "TRG-TEST-DEVICE-01",
+    "plan":  "7 DAYS FREE",
+    "os":  "Android 14 (API 34)",
+    "name":  "TEST PHONE (SAMSUNG S23)",
+    "expiry_time":  1793613404392,
+    "last_seen":  1793008604399,
+    "banned":  false,
+    "status":  "ACTIVE_TRIAL",
+    "deleted":  false
+}
