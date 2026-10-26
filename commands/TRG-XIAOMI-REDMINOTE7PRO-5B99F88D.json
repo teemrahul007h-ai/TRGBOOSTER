@@ -1,13 +1,5 @@
 {
-  "action": "add_time",
-  "payload": {
-    "days": 3,
-    "hours": 0,
-    "minutes": 0,
-    "duration_ms": 259200000,
-    "set_from_now": true
-  },
-  "timestamp": 1793016569976,
-  "executed": true,
-  "executed_at": 1793016575384
+  "action": "delete_device",
+  "timestamp": 1793020012692,
+  "executed": false
 }
