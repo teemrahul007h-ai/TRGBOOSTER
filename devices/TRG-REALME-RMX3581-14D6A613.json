@@ -7,7 +7,7 @@
   "ip": "192.168.0.101",
   "os": "Android 11 (API 30)",
   "status": "online",
-  "last_seen": 1793019710714,
+  "last_seen": 1793019717301,
   "battery": 28,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
@@ -19,7 +19,7 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1834,
-  "ram_free": 485,
+  "ram_free": 477,
   "ram_used_percent": 73,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
@@ -37,14 +37,14 @@
     {
       "name": "Camera",
       "pkg": "com.android.camera2",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Chrome",
       "pkg": "com.android.chrome",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -79,7 +79,7 @@
     {
       "name": "Drive",
       "pkg": "com.google.android.apps.docs",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -100,7 +100,7 @@
     {
       "name": "Gallery",
       "pkg": "com.google.android.apps.photosgo",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -128,28 +128,28 @@
     {
       "name": "Calculator",
       "pkg": "com.google.android.calculator",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Calendar",
       "pkg": "com.google.android.calendar",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Contacts",
       "pkg": "com.google.android.contacts",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Clock",
       "pkg": "com.google.android.deskclock",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -163,7 +163,7 @@
     {
       "name": "Gmail",
       "pkg": "com.google.android.gm",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -212,7 +212,7 @@
     {
       "name": "Files",
       "pkg": "com.google.android.apps.nbu.files",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -233,21 +233,21 @@
     {
       "name": "ASUS GlideX",
       "pkg": "com.asus.glidex",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "bKash",
       "pkg": "com.bKash.customerapp",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Bikroy",
       "pkg": "com.bikroy",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
@@ -261,7 +261,7 @@
     {
       "name": "Facebook",
       "pkg": "com.facebook.katana",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
@@ -296,7 +296,7 @@
     {
       "name": "ChatGPT",
       "pkg": "com.openai.chatgpt",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
@@ -317,7 +317,7 @@
     {
       "name": "Clash of Clans",
       "pkg": "com.supercell.clashofclans",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
