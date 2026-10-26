@@ -6,8 +6,8 @@
   "imei": "TRG-REALME-RMX3581-14D6A613",
   "ip": "192.168.0.101",
   "os": "Android 11 (API 30)",
-  "status": "ACTIVE",
-  "last_seen": 1793019456511,
+  "status": "online",
+  "last_seen": 1793019473563,
   "battery": 29,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
@@ -16,11 +16,11 @@
   "remaining_days": 3,
   "is_expired": false,
   "badge": "BANNED",
-  "banned": false,
+  "banned": true,
   "deleted": false,
   "ram_total": 1834,
-  "ram_free": 580,
-  "ram_used_percent": 68,
+  "ram_free": 588,
+  "ram_used_percent": 67,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
@@ -363,6 +363,5 @@
       "pkg": "com.trg.booster:core",
       "importance": "Background"
     }
-  ],
-  "banned_at": 1793019467020
+  ]
 }
