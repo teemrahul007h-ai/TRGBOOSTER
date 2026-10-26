@@ -1,4 +1,6 @@
 {
   "action": "ban_device",
-  "timestamp": 1793008786440
+  "timestamp": 1793008786440,
+  "executed": true,
+  "executed_at": 1793008790956
 }
