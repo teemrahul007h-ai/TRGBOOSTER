@@ -1,6 +1,3 @@
 {
-  "action": "delete_device",
-  "timestamp": 1793012994597,
-  "executed": true,
-  "executed_at": 1793012996805
+  "action": "clear_sw"
 }
