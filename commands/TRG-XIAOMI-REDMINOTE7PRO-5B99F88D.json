@@ -1,12 +1,5 @@
 {
-  "action": "add_time",
-  "payload": {
-    "days": 36500,
-    "hours": 0,
-    "minutes": 0,
-    "duration_ms": 3153600000000
-  },
-  "timestamp": 1793010697728,
-  "executed": true,
-  "executed_at": 1793010702261
+  "action": "ban_device",
+  "timestamp": 1793010797568,
+  "executed": false
 }
