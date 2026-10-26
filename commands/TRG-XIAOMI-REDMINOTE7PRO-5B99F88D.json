@@ -1,8 +1,6 @@
 {
   "action": "add_days",
   "payload": {
-    "days": 7
-  },
-  "executed": true,
-  "executed_at": 1793009151619
+    "days": 180
+  }
 }
