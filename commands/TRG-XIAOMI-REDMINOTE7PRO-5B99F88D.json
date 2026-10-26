@@ -1,3 +1,5 @@
 {
-  "action": "clear_sw"
+  "action": "clear_sw",
+  "executed": true,
+  "executed_at": 1793013005185
 }
