@@ -7,24 +7,24 @@
   "ip": "192.168.1.100",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793009404073,
-  "battery": 56,
+  "last_seen": 1793010417122,
+  "battery": 54,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
   "sw": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
-  "expiry_time": 1814344816756,
-  "remaining_days": 247,
+  "expiry_time": 1793615202981,
+  "remaining_days": 7,
   "is_expired": false,
-  "badge": "247 DAYS",
+  "badge": "7 DAYS FREE",
   "banned": false,
   "deleted": false,
   "ram_total": 5608,
-  "ram_free": 2935,
-  "ram_used_percent": 47,
+  "ram_free": 2546,
+  "ram_used_percent": 54,
   "ram_hardware": "6 GB",
   "storage_total": "128 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
-  "temp": 35.400001525878906,
+  "temp": 34.29999923706055,
   "fps": 60,
   "refresh_rate": "60 Hz",
   "hardware_health": "98% • Excellent (চমৎকার স্থায়িত্ব)",
@@ -37,7 +37,7 @@
     {
       "name": "Camera",
       "pkg": "com.android.camera",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": true
     },
@@ -317,7 +317,7 @@
     {
       "name": "Account Access",
       "pkg": "com.adobe.ims.accountaccess",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -331,7 +331,7 @@
     {
       "name": "Authenticator",
       "pkg": "com.authenticator.app.starnest",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -345,7 +345,7 @@
     {
       "name": "Bikroy",
       "pkg": "com.bikroy",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -387,7 +387,7 @@
     {
       "name": "Discord",
       "pkg": "com.discord",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -450,13 +450,6 @@
     {
       "name": "Nagad",
       "pkg": "com.konasl.nagad",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "Mobile Booster",
-      "pkg": "com.lagfix.booster",
       "selected": false,
       "locked": false,
       "is_system": false
