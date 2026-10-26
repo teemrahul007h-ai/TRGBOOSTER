@@ -1,8 +1,11 @@
 {
-  "action": "add_days",
+  "action": "add_time",
   "payload": {
-    "days": 180
+    "days": 0,
+    "hours": 0,
+    "minutes": 1,
+    "duration_ms": 60000
   },
-  "executed": true,
-  "executed_at": 1793009157059
+  "timestamp": 1793010492193,
+  "executed": false
 }
