@@ -7,7 +7,7 @@
   "ip": "192.168.0.101",
   "os": "Android 11 (API 30)",
   "status": "online",
-  "last_seen": 1793019762176,
+  "last_seen": 1793019801118,
   "battery": 28,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
@@ -19,7 +19,7 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1834,
-  "ram_free": 614,
+  "ram_free": 612,
   "ram_used_percent": 66,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
@@ -357,11 +357,5 @@
       "is_system": false
     }
   ],
-  "running_apps": [
-    {
-      "name": "com.trg.booster:core",
-      "pkg": "com.trg.booster:core",
-      "importance": "Background"
-    }
-  ]
+  "running_apps": []
 }
