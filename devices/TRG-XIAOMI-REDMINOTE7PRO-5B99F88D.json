@@ -6,7 +6,7 @@
   "imei": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
   "ip": "192.168.1.100",
   "os": "Android 10 (API 29)",
-  "status": "online",
+  "status": "ACTIVE",
   "last_seen": 1793010820438,
   "battery": 53,
   "battery_status": "Discharging • Healthy",
@@ -16,7 +16,7 @@
   "remaining_days": 36687,
   "is_expired": false,
   "badge": "BANNED",
-  "banned": true,
+  "banned": false,
   "deleted": false,
   "ram_total": 5608,
   "ram_free": 2932,
@@ -636,5 +636,6 @@
       "pkg": "com.trg.booster:core",
       "importance": "Background"
     }
-  ]
+  ],
+  "banned_at": 1793010825072
 }
