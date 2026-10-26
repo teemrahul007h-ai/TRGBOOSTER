@@ -7,7 +7,7 @@
   "ip": "10.151.64.246",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793017298983,
+  "last_seen": 1793017302000,
   "battery": 47,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Mobile Data (Teletalk)",
@@ -19,7 +19,7 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1832,
-  "ram_free": 727,
+  "ram_free": 716,
   "ram_used_percent": 60,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
@@ -331,14 +331,14 @@
     {
       "name": "Facebook",
       "pkg": "com.facebook.katana",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Messenger",
       "pkg": "com.facebook.orca",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
