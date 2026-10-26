@@ -6,21 +6,21 @@
   "imei": "TRG-REALME-RMX3581-14D6A613",
   "ip": "192.168.0.101",
   "os": "Android 11 (API 30)",
-  "status": "ACTIVE_VIP",
-  "last_seen": 1793019645430,
+  "status": "online",
+  "last_seen": 1793019652605,
   "battery": 28,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
   "sw": "TRG-REALME-RMX3581-14D6A613",
-  "expiry_time": 4946878751798,
+  "expiry_time": 1793278751798,
   "remaining_days": 3,
   "is_expired": false,
   "badge": "3 DAYS FREE",
   "banned": false,
   "deleted": false,
   "ram_total": 1834,
-  "ram_free": 559,
-  "ram_used_percent": 69,
+  "ram_free": 542,
+  "ram_used_percent": 70,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
@@ -363,6 +363,5 @@
       "pkg": "com.trg.booster:core",
       "importance": "Background"
     }
-  ],
-  "plan": "Lifetime VIP"
+  ]
 }
