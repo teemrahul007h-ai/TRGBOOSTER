@@ -1,5 +1,6 @@
 {
   "action": "delete_device",
   "timestamp": 1793010904703,
-  "executed": false
+  "executed": true,
+  "executed_at": 1793010909402
 }
