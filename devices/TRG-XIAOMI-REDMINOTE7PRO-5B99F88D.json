@@ -1,12 +1,634 @@
 {
   "id": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
-  "sw": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
   "name": "XIAOMI Redmi Note 7 Pro",
-  "first_start_time": 1793012955283,
+  "model": "Redmi Note 7 Pro",
+  "manufacturer": "Xiaomi",
+  "imei": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
+  "ip": "192.168.1.100",
+  "os": "Android 10 (API 29)",
+  "status": "online",
+  "last_seen": 1793012957327,
+  "battery": 46,
+  "battery_status": "Discharging • Healthy",
+  "network": "📶 Wi-Fi",
+  "sw": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
   "expiry_time": 4962767322981,
-  "plan": "7 DAYS FREE",
+  "remaining_days": 36687,
+  "is_expired": false,
+  "badge": "BANNED",
   "banned": true,
   "deleted": true,
-  "status": "BANNED",
-  "last_seen": 1793012956221
+  "ram_total": 5608,
+  "ram_free": 2289,
+  "ram_used_percent": 59,
+  "ram_hardware": "6 GB",
+  "storage_total": "128 GB",
+  "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
+  "temp": 36.400001525878906,
+  "fps": 60,
+  "refresh_rate": "60 Hz",
+  "hardware_health": "98% • Excellent (চমৎকার স্থায়িত্ব)",
+  "hardware_health_score": 98,
+  "guardian_active": true,
+  "is_locked": false,
+  "screen_on": true,
+  "lock_status": "unlocked",
+  "apps": [
+    {
+      "name": "Camera",
+      "pkg": "com.android.camera",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Chrome",
+      "pkg": "com.android.chrome",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Contacts",
+      "pkg": "com.android.contacts",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Clock",
+      "pkg": "com.android.deskclock",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Messaging",
+      "pkg": "com.android.mms",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Settings",
+      "pkg": "com.android.settings",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Recorder",
+      "pkg": "com.android.soundrecorder",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Themes",
+      "pkg": "com.android.thememanager",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Play Store",
+      "pkg": "com.android.vending",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Maps",
+      "pkg": "com.google.android.apps.maps",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Gmail",
+      "pkg": "com.google.android.gm",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "YouTube",
+      "pkg": "com.google.android.youtube",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "File Manager",
+      "pkg": "com.mi.android.globalFileexplorer",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Gallery",
+      "pkg": "com.miui.gallery",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Services & feedback",
+      "pkg": "com.miui.miservice",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Notes",
+      "pkg": "com.miui.notes",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Weather",
+      "pkg": "com.miui.weather2",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Calendar",
+      "pkg": "com.xiaomi.calendar",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Scanner",
+      "pkg": "com.xiaomi.scanner",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Drive",
+      "pkg": "com.google.android.apps.docs",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Photos",
+      "pkg": "com.google.android.apps.photos",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "YT Studio",
+      "pkg": "com.google.android.apps.youtube.creator",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Play Music",
+      "pkg": "com.google.android.music",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Google TV",
+      "pkg": "com.google.android.videos",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Roblox",
+      "pkg": "com.roblox.client",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Snapchat",
+      "pkg": "com.snapchat.android",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Tether",
+      "pkg": "com.tplink.tether",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Open Camera",
+      "pkg": "net.sourceforge.opencamera",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Downloads",
+      "pkg": "com.android.providers.downloads.ui",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "SIM toolkit",
+      "pkg": "com.android.stk",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Google",
+      "pkg": "com.google.android.googlequicksearchbox",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "App vault",
+      "pkg": "com.mi.android.globalminusscreen",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Calculator",
+      "pkg": "com.miui.calculator",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Compass",
+      "pkg": "com.miui.compass",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "FM Radio",
+      "pkg": "com.miui.fm",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Music",
+      "pkg": "com.miui.player",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Screen Recorder",
+      "pkg": "com.miui.screenrecorder",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Security",
+      "pkg": "com.miui.securitycenter",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "ShareMe",
+      "pkg": "com.xiaomi.midrop",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "MT Manager",
+      "pkg": "bin.mt.plus",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Account Access",
+      "pkg": "com.adobe.ims.accountaccess",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "MyBL",
+      "pkg": "com.arena.banglalinkmela.app",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Authenticator",
+      "pkg": "com.authenticator.app.starnest",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "bKash",
+      "pkg": "com.bKash.customerapp",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Bikroy",
+      "pkg": "com.bikroy",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Binance",
+      "pkg": "com.binance.dev",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Cooking Diner",
+      "pkg": "com.crazy.cooking.diner.chef.restaurant.fever",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Bkash",
+      "pkg": "com.crazy.developer.B.bKash.V2",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Rocket",
+      "pkg": "com.dbbl.mbs.apps.main",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "ClevCalc",
+      "pkg": "com.dencreak.dlcalculator",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Discord",
+      "pkg": "com.discord",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "DramaWave",
+      "pkg": "com.dramawave.app",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Free Fire",
+      "pkg": "com.dts.freefireth",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Mi Remote",
+      "pkg": "com.duokan.phone.remotecontroller",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Facebook",
+      "pkg": "com.facebook.katana",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Messenger",
+      "pkg": "com.facebook.orca",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Fonts",
+      "pkg": "com.fontskeyboard.fonts",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "imo",
+      "pkg": "com.imo.android.imoim",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Instagram",
+      "pkg": "com.instagram.android",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Nagad",
+      "pkg": "com.konasl.nagad",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "CapCut",
+      "pkg": "com.lemon.lvoverseas",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "pandarider",
+      "pkg": "com.logistics.rider.foodpanda",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Ludo King",
+      "pkg": "com.ludo.king",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "TopFollow",
+      "pkg": "com.nivaroid.topfollow",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "ChatGPT",
+      "pkg": "com.openai.chatgpt",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Remini",
+      "pkg": "com.remini.xyz",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "dklink",
+      "pkg": "com.softifybd.dklink",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "HopWeb",
+      "pkg": "com.venter.hopweb",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "WhatsApp",
+      "pkg": "com.whatsapp",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "WA Business",
+      "pkg": "com.whatsapp.w4b",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "TikTok",
+      "pkg": "com.zhiliaoapp.musically",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Shizuku",
+      "pkg": "moe.shizuku.privileged.api",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "My Robi",
+      "pkg": "net.omobio.robisc",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "GitHub",
+      "pkg": "org.chromium.webapk.a2e085d07beb91e0e_v2",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "ESP LINE AUTH",
+      "pkg": "org.chromium.webapk.afe94b04a9020cadd_v2",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Telegram",
+      "pkg": "org.telegram.messenger",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Python",
+      "pkg": "org.termuxstudio.python_app",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Tikget",
+      "pkg": "ru.codeluck.tiktok.downloader",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "ZArchiver",
+      "pkg": "ru.zdevs.zarchiver",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Mi Doc Viewer (Powered by WPS)",
+      "pkg": "cn.wps.xiaomi.abroad.lite",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Android Developer Verifier",
+      "pkg": "com.google.android.verifier",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Wallpaper Carousel",
+      "pkg": "com.miui.android.fashiongallery",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Android System Key Verifier",
+      "pkg": "com.google.android.contactkeys",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Android System SafetyCore",
+      "pkg": "com.google.android.safetycore",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Mi Credit",
+      "pkg": "com.micredit.in",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    }
+  ],
+  "running_apps": []
 }
