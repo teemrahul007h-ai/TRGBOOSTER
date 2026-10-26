@@ -1,4 +1,6 @@
 {
   "action": "unban_device",
-  "timestamp": 1793008866603
+  "timestamp": 1793008866603,
+  "executed": true,
+  "executed_at": 1793008868498
 }
