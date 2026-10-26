@@ -1,6 +1,5 @@
 {
-  "action": "unban_device",
-  "timestamp": 1793019500212,
-  "executed": true,
-  "executed_at": 1793019505269
+  "action": "delete_device",
+  "timestamp": 1793019521542,
+  "executed": false
 }
