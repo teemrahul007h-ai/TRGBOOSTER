@@ -1,6 +1,6 @@
 {
-  "action": "unban_device",
-  "timestamp": 1793008992669,
-  "executed": true,
-  "executed_at": 1793008994676
+  "action": "add_days",
+  "payload": {
+    "days": 30
+  }
 }
