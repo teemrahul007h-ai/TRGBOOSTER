@@ -7,7 +7,7 @@
   "ip": "192.168.0.101",
   "os": "Android 11 (API 30)",
   "status": "online",
-  "last_seen": 1793019746671,
+  "last_seen": 1793019754262,
   "battery": 28,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
@@ -19,8 +19,8 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1834,
-  "ram_free": 462,
-  "ram_used_percent": 74,
+  "ram_free": 609,
+  "ram_used_percent": 66,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
@@ -51,28 +51,28 @@
     {
       "name": "Settings",
       "pkg": "com.android.settings",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Play Store",
       "pkg": "com.android.vending",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Phone Manager",
       "pkg": "com.coloros.phonemanager",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Videos",
       "pkg": "com.coloros.video",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -86,14 +86,14 @@
     {
       "name": "Maps",
       "pkg": "com.google.android.apps.maps",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Messages",
       "pkg": "com.google.android.apps.messaging",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -107,21 +107,21 @@
     {
       "name": "Meet",
       "pkg": "com.google.android.apps.tachyon",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Wallet",
       "pkg": "com.google.android.apps.walletnfcrel",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "YT Music",
       "pkg": "com.google.android.apps.youtube.music",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -156,7 +156,7 @@
     {
       "name": "Phone",
       "pkg": "com.google.android.dialer",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -170,42 +170,42 @@
     {
       "name": "YouTube",
       "pkg": "com.google.android.youtube",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Photos",
       "pkg": "com.google.android.apps.photos",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Tether",
       "pkg": "com.tplink.tether",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Recorder",
       "pkg": "com.android.soundrecorder",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "SIM Toolkit",
       "pkg": "com.android.stk",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Weather",
       "pkg": "com.coloros.weather2",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -219,14 +219,14 @@
     {
       "name": "Google",
       "pkg": "com.google.android.apps.searchlite",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Keep Notes",
       "pkg": "com.google.android.keep",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -268,21 +268,21 @@
     {
       "name": "Messenger",
       "pkg": "com.facebook.orca",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "QR & Barcode Scanner",
       "pkg": "com.gamma.scan",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Nagad",
       "pkg": "com.konasl.nagad",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
@@ -303,14 +303,14 @@
     {
       "name": "Pawxy",
       "pkg": "com.pawxy.browser",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "skitto",
       "pkg": "com.skitto",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
@@ -324,35 +324,35 @@
     {
       "name": "WhatsApp",
       "pkg": "com.whatsapp",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "WO Mic",
       "pkg": "com.wo.voice2",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "My Robi",
       "pkg": "net.omobio.robisc",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Ridmik",
       "pkg": "ridmik.keyboard",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "ZArchiver",
       "pkg": "ru.zdevs.zarchiver",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     }
