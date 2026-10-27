@@ -1,13 +1,12 @@
 {
   "action": "add_time",
   "payload": {
-    "days": 0,
-    "hours": 0,
-    "minutes": 1,
-    "duration_ms": 60000,
+    "days": 999,
+    "hours": 60,
+    "minutes": 6,
+    "duration_ms": 86529960000,
     "set_from_now": true
   },
-  "timestamp": 1793115471398,
-  "executed": true,
-  "executed_at": 1793115476330
+  "timestamp": 1793115703726,
+  "executed": false
 }
