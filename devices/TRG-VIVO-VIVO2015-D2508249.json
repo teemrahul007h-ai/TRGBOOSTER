@@ -1,12 +1,438 @@
 {
   "id": "TRG-VIVO-VIVO2015-D2508249",
-  "sw": "TRG-VIVO-VIVO2015-D2508249",
   "name": "VIVO vivo 2015",
-  "first_start_time": 1793117081840,
+  "model": "vivo 2015",
+  "manufacturer": "vivo",
+  "imei": "TRG-VIVO-VIVO2015-D2508249",
+  "ip": "192.168.1.102",
+  "os": "Android 10 (API 29)",
+  "status": "online",
+  "last_seen": 1793117094541,
+  "battery": 30,
+  "battery_status": "Discharging • Healthy",
+  "network": "📶 Wi-Fi",
+  "sw": "TRG-VIVO-VIVO2015-D2508249",
   "expiry_time": 1793376281840,
-  "plan": "3 DAYS FREE",
+  "remaining_days": 3,
+  "is_expired": false,
+  "badge": "3 DAYS FREE",
   "banned": false,
   "deleted": false,
-  "status": "ACTIVE_TRIAL",
-  "last_seen": 1793117082604
+  "ram_total": 1822,
+  "ram_free": 522,
+  "ram_used_percent": 71,
+  "ram_hardware": "2 GB",
+  "storage_total": "32 GB",
+  "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
+  "temp": 34,
+  "fps": 60,
+  "refresh_rate": "60 Hz",
+  "hardware_health": "97% • Excellent (চমৎকার স্থায়িত্ব)",
+  "hardware_health_score": 97,
+  "guardian_active": true,
+  "is_locked": false,
+  "screen_on": true,
+  "lock_status": "unlocked",
+  "apps": [
+    {
+      "name": "Albums",
+      "pkg": "com.vivo.gallery",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Recorder",
+      "pkg": "com.android.bbksoundrecorder",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Camera",
+      "pkg": "com.android.camera",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Chrome",
+      "pkg": "com.android.chrome",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Contacts",
+      "pkg": "com.android.contacts",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Phone",
+      "pkg": "com.android.dialer",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Messages",
+      "pkg": "com.android.mms",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Settings",
+      "pkg": "com.android.settings",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Play Store",
+      "pkg": "com.android.vending",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Calendar",
+      "pkg": "com.bbk.calendar",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Themes",
+      "pkg": "com.bbk.theme",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Maps",
+      "pkg": "com.google.android.apps.maps",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Photos",
+      "pkg": "com.google.android.apps.photos",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Duo",
+      "pkg": "com.google.android.apps.tachyon",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "YT Music",
+      "pkg": "com.google.android.apps.youtube.music",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Gmail",
+      "pkg": "com.google.android.gm",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "YouTube",
+      "pkg": "com.google.android.youtube",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "vivo.com",
+      "pkg": "com.vivo.website",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Snaptube",
+      "pkg": "com.snaptube.premium",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Clock",
+      "pkg": "com.android.BBKClock",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Video",
+      "pkg": "com.android.VideoPlayer",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Calculator",
+      "pkg": "com.android.bbkcalculator",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Music",
+      "pkg": "com.android.bbkmusic",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Notes",
+      "pkg": "com.android.notes",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "vivoCloud",
+      "pkg": "com.bbk.cloud",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Assistant",
+      "pkg": "com.google.android.apps.googleassistant",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Files",
+      "pkg": "com.google.android.apps.nbu.files",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Google",
+      "pkg": "com.google.android.googlequicksearchbox",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Lens",
+      "pkg": "com.google.ar.lens",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "iManager",
+      "pkg": "com.iqoo.secure",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "FM Radio",
+      "pkg": "com.vivo.FMRadio",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Browser",
+      "pkg": "com.vivo.browser",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Compass",
+      "pkg": "com.vivo.compass",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "EasyShare",
+      "pkg": "com.vivo.easyshare",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Email",
+      "pkg": "com.vivo.email",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Simple View",
+      "pkg": "com.vivo.simplelauncher",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "Weather",
+      "pkg": "com.vivo.weather",
+      "selected": false,
+      "locked": false,
+      "is_system": true
+    },
+    {
+      "name": "DPDC Smart Meter Customer App",
+      "pkg": "bd.org.dpdc.amiapp_release.twa",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Water Sort",
+      "pkg": "com.GatherMedia.WaterSort",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Lock",
+      "pkg": "com.android.bbk.lockscreen3",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "MyBL",
+      "pkg": "com.arena.banglalinkmela.app",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "bKash",
+      "pkg": "com.bKash.customerapp",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "1.1.1.1",
+      "pkg": "com.cloudflare.onedotonedotonedotone",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "The Ants Blast",
+      "pkg": "com.cooyostudio.the.ants.blast.lite",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Callbreak",
+      "pkg": "com.datgames.CallbreakCardGame",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Free Fire",
+      "pkg": "com.dts.freefireth",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Lite",
+      "pkg": "com.facebook.lite",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Messenger",
+      "pkg": "com.facebook.orca",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "pandarider",
+      "pkg": "com.logistics.rider.foodpanda",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Unseen",
+      "pkg": "com.tda.unseen",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Shadow Fighter",
+      "pkg": "com.tohsoft.game.ninja.shadow.fighter2",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "WhatsApp",
+      "pkg": "com.whatsapp",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "TikTok Lite",
+      "pkg": "com.zhiliaoapp.musically.go",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "My Robi",
+      "pkg": "net.omobio.robisc",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "River IQ",
+      "pkg": "zl.puzzle.riveriq",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Android Developer Verifier",
+      "pkg": "com.google.android.verifier",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    },
+    {
+      "name": "Android System SafetyCore",
+      "pkg": "com.google.android.safetycore",
+      "selected": false,
+      "locked": false,
+      "is_system": false
+    }
+  ],
+  "running_apps": []
 }
