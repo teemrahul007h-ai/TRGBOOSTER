@@ -7,5 +7,6 @@
     "duration_ms": 2592000000
   },
   "timestamp": 1793115450054,
-  "executed": false
+  "executed": true,
+  "executed_at": 1793115455435
 }
