@@ -1,6 +1,7 @@
 {
-  "action": "delete_device",
-  "timestamp": 1793020020500,
-  "executed": true,
-  "executed_at": 1793020022704
+  "action": "clear_sw",
+  "payload": {
+    "banned": false,
+    "deleted": false
+  }
 }
