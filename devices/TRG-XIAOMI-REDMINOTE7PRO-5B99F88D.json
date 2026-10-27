@@ -7,8 +7,8 @@
   "ip": "192.168.1.100",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793120301599,
-  "battery": 63,
+  "last_seen": 1793120306640,
+  "battery": 62,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
   "sw": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
@@ -19,12 +19,12 @@
   "banned": false,
   "deleted": false,
   "ram_total": 5608,
-  "ram_free": 2676,
+  "ram_free": 2683,
   "ram_used_percent": 52,
   "ram_hardware": "6 GB",
   "storage_total": "128 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
-  "temp": 36.70000076293945,
+  "temp": 37.29999923706055,
   "fps": 60,
   "refresh_rate": "60 Hz",
   "hardware_health": "98% • Excellent (চমৎকার স্থায়িত্ব)",
@@ -37,7 +37,7 @@
     {
       "name": "Camera",
       "pkg": "com.android.camera",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": true
     },
@@ -114,7 +114,7 @@
     {
       "name": "YouTube",
       "pkg": "com.google.android.youtube",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": true
     },
@@ -345,7 +345,7 @@
     {
       "name": "Bikroy",
       "pkg": "com.bikroy",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -387,7 +387,7 @@
     {
       "name": "Discord",
       "pkg": "com.discord",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -415,14 +415,14 @@
     {
       "name": "Facebook",
       "pkg": "com.facebook.katana",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Messenger",
       "pkg": "com.facebook.orca",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -457,7 +457,7 @@
     {
       "name": "CapCut",
       "pkg": "com.lemon.lvoverseas",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -520,14 +520,14 @@
     {
       "name": "WA Business",
       "pkg": "com.whatsapp.w4b",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
     {
       "name": "TikTok",
       "pkg": "com.zhiliaoapp.musically",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
