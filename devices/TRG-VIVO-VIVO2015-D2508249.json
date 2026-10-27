@@ -6,13 +6,13 @@
   "imei": "TRG-VIVO-VIVO2015-D2508249",
   "ip": "192.168.1.102",
   "os": "Android 10 (API 29)",
-  "status": "online",
+  "status": "ACTIVE_VIP",
   "last_seen": 1793117247000,
   "battery": 29,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
   "sw": "TRG-VIVO-VIVO2015-D2508249",
-  "expiry_time": 1793376281840,
+  "expiry_time": 1808928281840,
   "remaining_days": 3,
   "is_expired": false,
   "badge": "3 DAYS FREE",
@@ -440,5 +440,6 @@
       "pkg": "com.trg.booster:core",
       "importance": "Background"
     }
-  ]
+  ],
+  "plan": "ADMIN VIP (180 DAYS)"
 }
