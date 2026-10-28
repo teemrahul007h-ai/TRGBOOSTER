@@ -7,7 +7,7 @@
   "ip": "10.0.2.15",
   "os": "Android 9 (API 28)",
   "status": "online",
-  "last_seen": 1793167975125,
+  "last_seen": 1793167979871,
   "battery": 100,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
@@ -100,7 +100,7 @@
     {
       "name": "Free Fire",
       "pkg": "com.dts.freefireth",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
