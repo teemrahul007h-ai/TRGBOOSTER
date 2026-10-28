@@ -7,7 +7,7 @@
   "ip": "192.168.1.123",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793182355477,
+  "last_seen": 1793182376651,
   "battery": 58,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
@@ -19,8 +19,8 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1832,
-  "ram_free": 764,
-  "ram_used_percent": 58,
+  "ram_free": 708,
+  "ram_used_percent": 61,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
@@ -170,7 +170,7 @@
     {
       "name": "HiOS Launcher",
       "pkg": "com.transsion.hilauncher",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": true
     },
@@ -324,7 +324,7 @@
     {
       "name": "Desh Bangla Keyboard",
       "pkg": "com.bangla.keyboard.for.android",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
@@ -338,21 +338,21 @@
     {
       "name": "Discord",
       "pkg": "com.discord",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Facebook",
       "pkg": "com.facebook.katana",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
     {
       "name": "Messenger",
       "pkg": "com.facebook.orca",
-      "selected": false,
+      "selected": true,
       "locked": false,
       "is_system": false
     },
