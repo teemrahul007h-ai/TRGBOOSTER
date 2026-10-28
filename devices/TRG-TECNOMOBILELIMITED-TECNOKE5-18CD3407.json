@@ -380,7 +380,7 @@
     {
       "name": "TikTok Lite",
       "pkg": "com.zhiliaoapp.musically.go",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
