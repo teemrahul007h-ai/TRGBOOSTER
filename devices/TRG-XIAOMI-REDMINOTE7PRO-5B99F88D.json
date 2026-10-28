@@ -6,20 +6,20 @@
   "imei": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
   "ip": "192.168.1.100",
   "os": "Android 10 (API 29)",
-  "status": "ACTIVE_VIP",
-  "last_seen": 1793175699111,
+  "status": "online",
+  "last_seen": 1793175736070,
   "battery": 78,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
   "sw": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D",
-  "expiry_time": 1793175783441,
+  "expiry_time": 1879648769590,
   "remaining_days": 1001,
   "is_expired": false,
   "badge": "LIFETIME VIP",
   "banned": false,
   "deleted": false,
   "ram_total": 5608,
-  "ram_free": 2746,
+  "ram_free": 2740,
   "ram_used_percent": 51,
   "ram_hardware": "6 GB",
   "storage_total": "128 GB",
@@ -630,7 +630,5 @@
       "is_system": false
     }
   ],
-  "running_apps": [],
-  "_file": "TRG-XIAOMI-REDMINOTE7PRO-5B99F88D.json",
-  "plan": "TEST VIP (1 MINS)"
+  "running_apps": []
 }
