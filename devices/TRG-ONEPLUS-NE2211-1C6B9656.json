@@ -7,26 +7,26 @@
   "ip": "10.0.2.15",
   "os": "Android 9 (API 28)",
   "status": "online",
-  "last_seen": 1793169585467,
+  "last_seen": 1793192316808,
   "battery": 100,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
   "sw": "TRG-ONEPLUS-NE2211-1C6B9656",
-  "expiry_time": 1824963117366,
-  "remaining_days": 368,
+  "expiry_time": 0,
+  "remaining_days": 0,
   "is_expired": false,
-  "badge": "368 DAYS",
+  "badge": "EXPIRED",
   "banned": false,
   "deleted": false,
   "ram_total": 3940,
-  "ram_free": 3210,
-  "ram_used_percent": 18,
+  "ram_free": 3065,
+  "ram_used_percent": 22,
   "ram_hardware": "4 GB",
   "storage_total": "256 GB",
   "activation_date": "04 Aug 2025, 12:24 PM (1y 2m ago)",
   "temp": 25,
   "fps": 60,
-  "refresh_rate": "60 Hz",
+  "refresh_rate": "90Hz Turbo (60Hz)",
   "hardware_health": "98% • Excellent (চমৎকার স্থায়িত্ব)",
   "hardware_health_score": 98,
   "guardian_active": true,
@@ -79,14 +79,14 @@
     {
       "name": "Home",
       "pkg": "com.uncube.launcher3",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": true
     },
     {
       "name": "Files",
       "pkg": "com.android.documentsui",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": true
     },
@@ -100,7 +100,7 @@
     {
       "name": "Free Fire",
       "pkg": "com.dts.freefireth",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
@@ -119,11 +119,5 @@
       "is_system": false
     }
   ],
-  "running_apps": [
-    {
-      "name": "com.trg.booster:core",
-      "pkg": "com.trg.booster:core",
-      "importance": "Background"
-    }
-  ]
+  "running_apps": []
 }
