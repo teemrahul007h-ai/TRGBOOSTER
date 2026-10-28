@@ -6,13 +6,13 @@
   "imei": "TRG-TECNOMOBILELIMITED-TECNOKE5-18CD3407",
   "ip": "192.168.1.123",
   "os": "Android 10 (API 29)",
-  "status": "online",
+  "status": "ACTIVE_VIP",
   "last_seen": 1793174975384,
   "battery": 68,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
   "sw": "TRG-TECNOMOBILELIMITED-TECNOKE5-18CD3407",
-  "expiry_time": 1808981821520,
+  "expiry_time": 1809586621520,
   "remaining_days": 183,
   "is_expired": false,
   "badge": "183 DAYS",
@@ -30,7 +30,7 @@
   "hardware_health": "98% • Excellent (চমৎকার স্থায়িত্ব)",
   "hardware_health_score": 98,
   "guardian_active": true,
-  "is_locked": true,
+  "is_locked": false,
   "screen_on": false,
   "lock_status": "locked",
   "apps": [
@@ -468,5 +468,7 @@
       "pkg": "com.trg.booster:core",
       "importance": "Background"
     }
-  ]
+  ],
+  "_file": "TRG-TECNOMOBILELIMITED-TECNOKE5-18CD3407.json",
+  "plan": "ADMIN VIP (7 DAYS)"
 }
