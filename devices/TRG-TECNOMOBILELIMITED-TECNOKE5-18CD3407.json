@@ -4,5 +4,9 @@
   "banned": false,
   "deleted": false,
   "cleared": true,
-  "cleared_at": 1793170587939
+  "cleared_at": 1793170587939,
+  "expiry_time": 1808722605739,
+  "plan": "ADMIN VIP (180 DAYS)",
+  "is_locked": false,
+  "status": "ACTIVE_VIP"
 }
