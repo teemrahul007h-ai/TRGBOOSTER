@@ -7,7 +7,7 @@
   "ip": "10.128.159.8",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793183982552,
+  "last_seen": 1793183985692,
   "battery": 57,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Mobile Data (Teletalk)",
@@ -19,8 +19,8 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1832,
-  "ram_free": 627,
-  "ram_used_percent": 65,
+  "ram_free": 613,
+  "ram_used_percent": 66,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
@@ -31,7 +31,7 @@
   "hardware_health_score": 98,
   "guardian_active": true,
   "is_locked": true,
-  "screen_on": false,
+  "screen_on": true,
   "lock_status": "locked",
   "apps": [
     {
