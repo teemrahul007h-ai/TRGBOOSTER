@@ -4,10 +4,10 @@
   "model": "TECNO KE5",
   "manufacturer": "TECNO MOBILE LIMITED",
   "imei": "TRG-TECNOMOBILELIMITED-TECNOKE5-18CD3407",
-  "ip": "192.168.1.123",
+  "ip": "192.168.1.100",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793183856496,
+  "last_seen": 1793183899993,
   "battery": 57,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
@@ -19,12 +19,12 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1832,
-  "ram_free": 755,
-  "ram_used_percent": 58,
+  "ram_free": 711,
+  "ram_used_percent": 61,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
-  "temp": 32.20000076293945,
+  "temp": 32.29999923706055,
   "fps": 120,
   "refresh_rate": "90Hz Turbo (60Hz)",
   "hardware_health": "98% • Excellent (চমৎকার স্থায়িত্ব)",
@@ -394,69 +394,6 @@
     {
       "name": "My Teletalk",
       "pkg": "teletalk.teletalkcustomerapp",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "WhatsApp",
-      "pkg": "com.whatsapp",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "Android Developer Verifier",
-      "pkg": "com.google.android.verifier",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "Remini",
-      "pkg": "com.bigwinepot.nwdn.international",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "Photos",
-      "pkg": "com.google.android.apps.photos",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "Truecaller Lite",
-      "pkg": "com.truecaller.slim",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "WiFi FTP Server",
-      "pkg": "com.medhaapps.wififtpserver",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "Lite",
-      "pkg": "com.facebook.lite",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "Android System SafetyCore",
-      "pkg": "com.google.android.safetycore",
-      "selected": false,
-      "locked": false,
-      "is_system": false
-    },
-    {
-      "name": "YouCut - Video Editor",
-      "pkg": "com.camerasideas.trimmer",
       "selected": false,
       "locked": false,
       "is_system": false
