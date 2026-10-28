@@ -7,7 +7,7 @@
   "ip": "192.168.2.242",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793180269948,
+  "last_seen": 1793180271384,
   "battery": 60,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi [🔥 Hotspot ON]",
@@ -19,8 +19,8 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1832,
-  "ram_free": 798,
-  "ram_used_percent": 56,
+  "ram_free": 764,
+  "ram_used_percent": 58,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
@@ -462,5 +462,11 @@
       "is_system": false
     }
   ],
-  "running_apps": []
+  "running_apps": [
+    {
+      "name": "com.trg.booster:core",
+      "pkg": "com.trg.booster:core",
+      "importance": "Background"
+    }
+  ]
 }
