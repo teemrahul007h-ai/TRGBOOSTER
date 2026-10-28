@@ -7,7 +7,7 @@
   "ip": "192.168.1.123",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793175287807,
+  "last_seen": 1793175291488,
   "battery": 68,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Wi-Fi",
@@ -19,7 +19,7 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1832,
-  "ram_free": 700,
+  "ram_free": 701,
   "ram_used_percent": 61,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
@@ -380,7 +380,7 @@
     {
       "name": "TikTok Lite",
       "pkg": "com.zhiliaoapp.musically.go",
-      "selected": true,
+      "selected": false,
       "locked": false,
       "is_system": false
     },
