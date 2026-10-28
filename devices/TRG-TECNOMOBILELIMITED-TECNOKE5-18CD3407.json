@@ -7,7 +7,7 @@
   "ip": "10.136.76.203",
   "os": "Android 10 (API 29)",
   "status": "online",
-  "last_seen": 1793204276646,
+  "last_seen": 1793204284762,
   "battery": 35,
   "battery_status": "Discharging • Healthy",
   "network": "📶 Mobile Data (Teletalk)",
@@ -19,8 +19,8 @@
   "banned": false,
   "deleted": false,
   "ram_total": 1832,
-  "ram_free": 753,
-  "ram_used_percent": 58,
+  "ram_free": 728,
+  "ram_used_percent": 60,
   "ram_hardware": "2 GB",
   "storage_total": "32 GB",
   "activation_date": "01 Jan 2009, 06:00 AM (17y 10m ago)",
@@ -462,5 +462,11 @@
       "is_system": false
     }
   ],
-  "running_apps": []
+  "running_apps": [
+    {
+      "name": "com.trg.booster:core",
+      "pkg": "com.trg.booster:core",
+      "importance": "Background"
+    }
+  ]
 }
